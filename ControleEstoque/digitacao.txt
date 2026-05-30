@@ -1,0 +1,20 @@
+1
+Rato Ótico
+10
+50,00
+Periféricos
+5
+1
+Teclado Mecânico
+2
+100,00
+Periféricos
+2
+1
+Monitor 24
+5
+700,00
+Monitores
+1
+7
+0
